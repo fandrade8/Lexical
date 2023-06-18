@@ -1,3 +1,0 @@
-! a !
-int number;
-number = 9;
